@@ -1,4 +1,4 @@
-# Welcome to My Profile! 👔 I'm Gnyani Enugandula
+# Welcome to My Profile! I'm Gnyani Enugandula
 
 As a passionate data analyst and second year grad at Syracuse University completing my Master's in Information Systems, I've had the chance to dive deep into data, uncovering insights that drive smarter decisions. I'm particularly passionate about using my analytical skills in areas like women's empowerment, utilizing data to advocate for and advance women's rights globally.
 
