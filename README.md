@@ -1,22 +1,67 @@
-# Welcome to My Profile! I'm Gnyani Enugandula
+<h2 align="left">Hi 👋! My name is Gnyani and I'm a ..., from ....</h2>
 
-As a passionate data analyst and second year grad at Syracuse University completing my Master's in Information Systems, I've had the chance to dive deep into data, uncovering insights that drive smarter decisions. I'm particularly passionate about using my analytical skills in areas like women's empowerment, utilizing data to advocate for and advance women's rights globally.
+###
 
-## What I'm working on 🚀
-- **Enhancing Women's Educational and Economic Opportunities in India**: This project aims to analyze data on women's access to education and economic participation in India. By collaborating with educational institutions and NGOs, the goal is to create data-driven strategies that increase enrollment rates, improve educational resources, and facilitate greater economic independence for women.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egnyani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egnyani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- **Tennis Performance Analysis: Rafael Nadal**: Focused on one of tennis's greatest players, this project utilizes match data to analyze Rafael Nadal's performance trends over the years. By studying his play patterns, injury history, and match outcomes, the analysis helps understand factors contributing to his success and longevity in the sport.
-  
-## My Toolkit 🧰
-- **Languages**: Python, C, SQL, C#
-- **Technologies**: Flask, React.js, Tableau, Pandas, NumPy
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
+###
 
-## Let's Connect 🌐
-- Reach me on LinkedIn at https://www.linkedin.com/in/gnyani-enugandula-6a0149262
-- Shoot me an email at genugandula@gmail.com
-  
-I love collaborating and learning with others, so don't hesitate to drop a line if you want to talk data or tech!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
+###
 
+<div align="left">
+  <a href="mailto:gnyenug@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gnyani-enugandula-6a0149262" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/egnyani/egnyani/output/snake.svg" alt="Snake animation" />
+
+###
