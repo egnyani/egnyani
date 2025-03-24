@@ -1,30 +1,134 @@
-# Welcome to My Profile! I'm Gnyani Enugandula
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gnyani%20Enugandula&fontSize=50&fontAlignY=35&desc=Data%20Analyst%20|%20ML%20Enthusiast&descAlignY=55&animation=twinkling" width="100%"/>
+</div>
 
-As a passionate data analyst and second year grad at Syracuse University completing my Master's in Information Systems, I've had the chance to dive deep into data, uncovering insights that drive smarter decisions. I'm particularly passionate about using my analytical skills in areas like women's empowerment, utilizing data to advocate for and advance women's rights globally.
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E45E1&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Harsh+Dwivedi+👋;Software+Engineer+%26+ML+Enthusiast+🚀;Turning+Coffee+into+Code+☕;Building+the+Future+of+Tech+💡;Let's+Connect+and+Create+Together+🤝" alt="Typing SVG" />
+    </a>
+</div>
 
-## What I'm working on 🚀
-- **Enhancing Women's Educational and Economic Opportunities in India**: This project aims to analyze data on women's access to education and economic participation in India. By collaborating with educational institutions and NGOs, the goal is to create data-driven strategies that increase enrollment rates, improve educational resources, and facilitate greater economic independence for women.
+<div align="center">
+    <a href="mailto:genugandula@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="[https://www.linkedin.com/in/harsh-dwivedi-854b39202/](https://github.com/egnyani)">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=harsh746-exe&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
 
-- **Tennis Performance Analysis: Rafael Nadal**: Focused on one of tennis's greatest players, this project utilizes match data to analyze Rafael Nadal's performance trends over the years. By studying his play patterns, injury history, and match outcomes, the analysis helps understand factors contributing to his success and longevity in the sport.
+## 🌟 About Me
 
-## My Toolkit 🧰
-- **Languages**: Python, C, SQL, C#
-- **Technologies**: Flask, React.js, Tableau, Pandas, NumPy
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure
+### 👨‍💻 Who am I?
+```yaml
+name: Harsh Dwivedi
+location: New York, USA
+contact: 
+  email: edwivediharsh@gmail.com
+  phone: +1 (680) 216-2032
 
-## Let's Connect 🌐
-- Reach me on LinkedIn at https://www.linkedin.com/in/gnyani-enugandula-6a0149262
-- Shoot me an email at genugandula@gmail.com
+education:
+  - degree: M.S. in Computer Engineering
+    university: Syracuse University
+    location: Syracuse, New York
+    duration: "August 2024 - May 2026"
+    
+  - degree: B.E. in Electronics Engineering
+    university: Mumbai University
+    location: Navi Mumbai, Maharashtra
+    duration: "August 2019 - July 2023"
 
-I love collaborating and learning with others, so don't hesitate to drop a line if you want to talk data or tech!
+experience:
+  - role: Assistant System Engineer
+    company: Tata Consultancy Services (TCS)
+    duration: "January 2024 - July 2024"
+    highlights: ["Automated monitoring", "Cloud management", "Process optimization"]
+    
+  - role: Freelance Web Developer
+    company: Picky with Picks
+    duration: "November 2022 - January 2023"
+    
+  - role: Cloud Intern
+    company: AICTE
+    duration: "October 2021 - December 2021"
+    
+  - role: Data Intern
+    company: TCR Innovations
+    duration: "June 2021 – August 2021"
 
+achievements:
+  - "Patent Application No. 202321073609"
+  - "Reduced system downtime by 30%"
+  - "Improved data analysis times by 40%"
+  - "Enhanced security compliance by 40%"
 
-0 commit comments
-Comments
-0
- (0)
-Comment
-You're receiving notifications because you're subscribed to this thread.
+fields_of_interests:
+  [
+    "Cloud Architecture",
+    "DevOps & CI/CD",
+    "Full Stack Development",
+    "System Design",
+    "Machine Learning"
+  ]
 
-L1 to R22 selected.
+currently_working_on: ["DevChat - AI-powered Development Assistant"]
+learning: ["Advanced Cloud Architecture", "AI/ML Integration", "System Design Patterns"]
+```
+
+<div align="center">
+  <a href="https://github.com/harsh746-exe?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/harsh746-exe?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/harsh746-exe?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/harsh746-exe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/harsh746-exe">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=harsh746-exe&style=for-the-badge&color=blueviolet"/></a>
+</div>
+
+## 💻 Technical Expertise
+
+<details open>
+<summary>🔧 Skills & Technologies</summary>
+
+### 🌐 Frontend Development
+[![Frontend Skills](https://skillicons.dev/icons?i=react,angular,vue,ts,js,html,css,sass,bootstrap)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,django)](https://skillicons.dev)
+
+### 🛢️ Database Technologies
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,graphql)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps
+[![Cloud Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform)](https://skillicons.dev)
+
+### 🛠️ Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux)](https://skillicons.dev)
+
+</details>
+
+## 🌱 Current Focus
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+- 🔭 Currently working on **Machine Learning Projects**
+- 🌱 Learning **Blockchain Development** and **Web3**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **System Design**, **Cloud Architecture**, or **Backend Development**
+- ⚡ Fun fact: I can debug code faster than I can find my keys! 🔑
+
+## 📊 Most Used Technologies
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh746-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harsh746-exe/harsh746-exe/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
