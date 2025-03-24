@@ -93,7 +93,11 @@ learning: ["Advanced Predictive Modeling", "Big Data Technologies", "Cloud Data 
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,azure)](https://skillicons.dev)
 
 ### 📈 BI Tools
-[![BI Tools](https://skillicons.dev/icons?i=tableau,powerbi)](https://skillicons.dev)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 [![Cloud Skills](https://skillicons.dev/icons?i=docker,aws,azure,gcp)](https://skillicons.dev)
