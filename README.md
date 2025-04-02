@@ -114,7 +114,7 @@ learning: ["Advanced Predictive Modeling", "Big Data Technologies", "Cloud Data 
 - 🔭 Currently working on **AI-driven data analysis platforms**
 - 🌱 Learning **Advanced Predictive Modeling** and **Big Data Technologies**
 - 👯 Looking to collaborate on **Data Science Projects**
-- 💬 Ask me about **Data Analytics**, **ETL Pipelines**, or **Machine Learning**
+- 💬 Ask me about **Data Analytics**
 - ⚡ Fun fact: I can analyze data faster than I can decide what to eat for lunch! 🍔
 
 ## 📊 GitHub Stats
